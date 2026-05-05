@@ -1,1 +1,2 @@
-/bin/bash: line 4: yt-dlp: command not found
+WARNING: The program functionality for this site has been marked as broken, and will probably not work.
+ERROR: could not find chrome cookies database in "/root/.config/google-chrome"
